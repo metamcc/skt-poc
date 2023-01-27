@@ -1,0 +1,9 @@
+{
+  "commitish" : "v0.2.1",
+  "iOS" : [
+    {
+      "name" : "VarInt",
+      "hash" : "2b2f1e217a2491814d499f242c403c8f51a4ef48aa1e711ff8bdde12d371bd69"
+    }
+  ]
+}

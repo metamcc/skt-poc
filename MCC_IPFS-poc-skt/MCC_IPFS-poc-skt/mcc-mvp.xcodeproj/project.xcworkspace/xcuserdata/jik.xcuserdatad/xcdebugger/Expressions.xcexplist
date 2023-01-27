@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CreateScrapingVC.uploadIPFS():CreateScrapingVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "creditData?.owneraddress">
+            </PersistentString>
+            <PersistentString
+               value = "creditData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReportDetailVC.tableView(_:cellForRowAt:):ReportDetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainV2VC.viewDidLoad():MainV2VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataSource">
+            </PersistentString>
+            <PersistentString
+               value = "self.myCreditFiles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CreateScrapingVC.tableView(_:didSelectRowAt:):CreateScrapingVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "OmniDocMgr.shared.paramsForTableView[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReportListVC.tableView(_:cellForRowAt:):ReportListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

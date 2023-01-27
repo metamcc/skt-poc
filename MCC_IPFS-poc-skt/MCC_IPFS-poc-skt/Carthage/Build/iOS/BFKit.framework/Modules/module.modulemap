@@ -1,0 +1,11 @@
+framework module BFKit {
+  umbrella header "BFKit.h"
+
+  export *
+  module * { export * }
+}
+
+module BFKit.Swift {
+    header "BFKit-Swift.h"
+    requires objc
+}

@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.8.3",
+  "iOS" : [
+    {
+      "name" : "STPopup",
+      "hash" : "3b9233da78c6aa5a88b649cd80fb57e45e147835020fb0b823628568a708b635"
+    }
+  ]
+}

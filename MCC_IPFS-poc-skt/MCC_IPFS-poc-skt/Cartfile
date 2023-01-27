@@ -1,0 +1,10 @@
+github "ipfs/swift-ipfs-api" "master"
+github "Alamofire/Alamofire"
+github "Alamofire/AlamofireImage"
+github "pkluz/PKHUD"
+github "FabrizioBrancati/BFKit-Swift"
+github "kevin0571/STPopup"
+github "RNCryptor/RNCryptor" ~> 5.0
+github "drmohundro/SWXMLHash"
+
+# carthage update --platform iOS

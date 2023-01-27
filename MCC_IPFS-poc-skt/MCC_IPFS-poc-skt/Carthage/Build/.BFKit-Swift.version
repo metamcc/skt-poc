@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.2.1",
+  "iOS" : [
+    {
+      "name" : "BFKit",
+      "hash" : "801da12a9608f3c95c40a0a9bb2722924eff7318c297d85c41a82cadeb12e48d"
+    }
+  ]
+}

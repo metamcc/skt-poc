@@ -1,0 +1,13 @@
+{
+  "commitish" : "5.0.3",
+  "iOS" : [
+    {
+      "name" : "RNCryptor",
+      "hash" : "fb2893f647e84e552c2a3b8569271e8c4cc89f59e6f6125880bcca786ec3ed20"
+    },
+    {
+      "name" : "RNCryptor",
+      "hash" : "fb2893f647e84e552c2a3b8569271e8c4cc89f59e6f6125880bcca786ec3ed20"
+    }
+  ]
+}

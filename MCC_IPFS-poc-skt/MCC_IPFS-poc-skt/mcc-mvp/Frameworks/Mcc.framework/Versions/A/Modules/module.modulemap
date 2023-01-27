@@ -1,0 +1,8 @@
+framework module "Mcc" {
+	header "ref.h"
+    header "Mcc.objc.h"
+    header "universe.objc.h"
+    header "Mcc.h"
+
+    export *
+}
